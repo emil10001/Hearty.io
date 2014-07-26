@@ -1,0 +1,15 @@
+[submodule "AndroidBleLib"]
+	path = AndroidBleLib
+	url = ./AndroidBleLib
+[submodule "HeartyGlass"]
+	path = HeartyGlass
+	url = ./HeartyGlass
+[submodule "ReusableAndroidUtils"]
+	path = ReusableAndroidUtils
+	url = ./ReusableAndroidUtils
+[submodule "ReusableJavaUtils"]
+	path = ReusableJavaUtils
+	url = ./ReusableJavaUtils
+[submodule "Witness"]
+	path = Witness
+	url = ./Witness
