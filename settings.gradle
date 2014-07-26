@@ -1,2 +1,2 @@
-include ':AndroidBleLib', ':Witness', ':ReusableAndroidUtils', ':HeartyAndroid', ':DemoApp', ':HeartyDB', ':HeartyGlass', ':ReusableJavaUtils'
+include ':AndroidBleLib', ':Witness', ':ReusableAndroidUtils', ':HeartyGlass', ':ReusableJavaUtils'
 
