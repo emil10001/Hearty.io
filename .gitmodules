@@ -13,3 +13,6 @@
 [submodule "Witness"]
 	path = Witness
 	url = ./Witness
+[submodule "WearStepTracker"]
+	path = WearStepTracker
+	url = ./WearStepTracker/
