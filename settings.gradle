@@ -1,2 +1,8 @@
-include ':AndroidBleLib', ':Witness', ':ReusableAndroidUtils', ':HeartyGlass', ':ReusableJavaUtils', ':WearStepTracker'
-
+include ':Witness'
+include ':ReusableJavaUtils'
+include ':ReusableAndroidUtils'
+include ':AndroidBleLib'
+include ':HeartyDB'
+include ':HeartyGlass'
+include ':WearStepTracker'
+include ':HeartyAndroid'
