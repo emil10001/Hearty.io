@@ -1,18 +1,24 @@
 [submodule "AndroidBleLib"]
 	path = AndroidBleLib
-	url = ./AndroidBleLib
+	url = git://github.com/emil10001/AndroidBleLib.git
+[submodule "HeartyAndroid"]
+	path = HeartyAndroid
+	url = git://github.com/emil10001/HeartyAndroid.git
+[submodule "HeartyDB"]
+	path = HeartyDB
+	url = git://github.com/emil10001/HeartyDB.git
 [submodule "HeartyGlass"]
 	path = HeartyGlass
-	url = ./HeartyGlass
+	url = git://github.com/emil10001/HeartyGlass.git
 [submodule "ReusableAndroidUtils"]
 	path = ReusableAndroidUtils
-	url = ./ReusableAndroidUtils
+	url = git://github.com/emil10001/ReusableAndroidUtils.git
 [submodule "ReusableJavaUtils"]
 	path = ReusableJavaUtils
-	url = ./ReusableJavaUtils
-[submodule "Witness"]
-	path = Witness
-	url = ./Witness
+	url = git://github.com/emil10001/ReusableJavaUtils.git
 [submodule "WearStepTracker"]
 	path = WearStepTracker
-	url = ./WearStepTracker/
+	url = git://github.com/emil10001/WearStepTracker.git
+[submodule "Witness"]
+	path = Witness
+	url = git://github.com/emil10001/Witness.git
