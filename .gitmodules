@@ -10,15 +10,15 @@
 [submodule "HeartyGlass"]
 	path = HeartyGlass
 	url = git://github.com/emil10001/HeartyGlass.git
+[submodule "HeartyWear"]
+	path = HeartyWear
+	url = git://github.com/emil10001/HeartyWear.git
 [submodule "ReusableAndroidUtils"]
 	path = ReusableAndroidUtils
 	url = git://github.com/emil10001/ReusableAndroidUtils.git
 [submodule "ReusableJavaUtils"]
 	path = ReusableJavaUtils
 	url = git://github.com/emil10001/ReusableJavaUtils.git
-[submodule "WearStepTracker"]
-	path = WearStepTracker
-	url = git://github.com/emil10001/WearStepTracker.git
 [submodule "Witness"]
 	path = Witness
 	url = git://github.com/emil10001/Witness.git
