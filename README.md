@@ -18,7 +18,7 @@ This is a workspace for a set of projects that are to become an open source fitn
 
 1. Check out the entire project from GitHub:
 
-    git clone --recursive https://github.com/emil10001/Hearty.io.git
+    `git clone --recursive https://github.com/emil10001/Hearty.io.git`
 
 2. Import into Android Studio as a project.
 
